@@ -18,3 +18,8 @@ list of products to be tested
 
 Some intitial test with tis script are found here
 http://innerexceptionblog.blogspot.com/2015/06/magento-19-performance-tests-php-56.html
+
+WARNING 
+You will need aditional plugins for jMeter
+http://jmeter-plugins.org/
+Standard 
