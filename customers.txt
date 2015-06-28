@@ -1,0 +1,1 @@
+Generate dummy custumers with n98-magerun and add email;password to this file.

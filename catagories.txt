@@ -1,0 +1,1 @@
+Estract categories from core_rewrite or from sitemap.

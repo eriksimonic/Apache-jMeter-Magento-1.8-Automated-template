@@ -1,0 +1,1 @@
+Extract products from sitemap or from database core_rewrite all product must be withowt domain name /url
